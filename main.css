@@ -1,0 +1,40 @@
+* {
+	font-family: Raleway;
+}
+body {
+	width: 800px;
+	height: 1175px;
+}
+h1 {
+	font-family: Raleway;
+	text-align: center;
+	text-transform: bold;
+	font-size: 40px
+}
+img {
+	 display: block;
+	 margin: 0 auto;
+}
+main {
+	text-align: left;
+	margin-left: 15px;
+}
+h2 {
+	font-family: Raleway;
+	text-decoration: underline;
+	text-align: left;
+	font-size: 25px;
+}
+h3 {
+	font-weight: bold
+	font-size: 22px;
+	margin-bottom: 10px;
+}
+.contactInfo{
+	list-style: none;
+	text-align: center;
+	margin-right: 70px
+}
+.address{
+	text-transform: bold;
+}
